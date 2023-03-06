@@ -1,3 +1,3 @@
-[submodule "Pedrolmf9/Mario-Jump-game"] 
-  path = Pedrolmf9/Mario-Jump-game
-  url = https://github.com/Pedrolmf9/Mario-Jump-game.git
+[submodule "Mario-Jump-game"] 
+  path = Mario-Jump-game
+  url = git@github.com:Pedrolmf9/Mario-Jump-game.git
